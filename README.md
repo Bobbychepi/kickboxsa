@@ -33,7 +33,6 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/kickboxsa.git
 Navigate to the project directory:
 bash
 Copy code
